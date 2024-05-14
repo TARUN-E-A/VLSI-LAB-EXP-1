@@ -31,9 +31,9 @@ endmodule
 ### OUTPUT WAVEFORM:
 ![image](https://github.com/TARUN-E-A/VLSI-LAB-EXP-1/assets/163630871/b58e68de-f768-4b22-9d8e-614c2bacf2e6)
 
-### Half Adder:
+### HALF ADDER:
 
-### Logic Diagram :
+### LOGIC DIAGRAM :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 
 ### VERILOG CODE:
@@ -50,9 +50,9 @@ endmodule
 ![image](https://github.com/TARUN-E-A/VLSI-LAB-EXP-1/assets/163630871/c2524113-43d7-45dd-aeb3-4b02c297c251)
 
 
-### Half Subtractor:
+### HALF SUBTRACTOR:
 
-### Logic Diagram :
+### LOGIC DIAGRAM :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
 
 ### VERILOG CODE:
@@ -68,9 +68,9 @@ endmodule
 ### OUTPUT WAVEFORM:
 ![image](https://github.com/TARUN-E-A/VLSI-LAB-EXP-1/assets/163630871/9f62660c-42dd-4e8d-8176-67a34843f4c4)
 
-## Full adder:
+## FULL ADDER:
 
-### Logic Diagram :
+### LOGIC DIAGRAM :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/9bb3964c-438f-469d-a3de-c1cca6f323fb)
 
 ### VERILOG CODE:
@@ -90,9 +90,9 @@ endmodule
 ### OUTPUT WAVEFORM:
 ![image](https://github.com/TARUN-E-A/VLSI-LAB-EXP-1/assets/163630871/38fcd51e-58b4-473c-a789-2f0d42b6b807)
 
-## Full Subtractor:
+## FULL SUBTRACTOR:
 
-### Logic Diagram :
+### LOGIC DIAGRAM :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
 
 ### VERILOG CODE:
@@ -114,9 +114,9 @@ endmodule
 
 
 
-## 8 Bit Ripple Carry Adder:
+## 8 BIT RIPPLE CARRY ADDER:
 
-### Logic Diagram :
+### LOGIC DIAGRAM :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
 
 ### VERILOG CODE:
